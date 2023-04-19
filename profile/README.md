@@ -1,6 +1,7 @@
-# Data Science Club VIT Bhopal University 
+# Data Science Club, VIT Bhopal University 
 
-### About Mission
+
+### About Us
 We are a varied group of data aficionados, including academics, working people, and hobbies. We are all interested in data science, and we want to develop as a team. Among the many disciplines represented among our members are web development, data science, computer science, statistics, and more, where each member is highly motivated towards their work and helps each other to grow together continuously. The club is run by Dr. Abha Trivedi and Dr. Pon Harshavardhanan, the club coordinators. They have worked on numerous projects, and their research articles have appeared in a number of periodicals. Prakriti and Ayushri, together with a number of other technical and non-technical leads and their teams, are in charge of overseeing the club's efficient operation.💻
 
 ### Our Mission
